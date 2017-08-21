@@ -10,6 +10,10 @@
     "eslint",
     "cetitife"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GravityMsc/eslint-config-cetitiFE.git"
+  },
   "author": "GravityMsc",
   "license": "MIT",
   "devDependencies": {},
