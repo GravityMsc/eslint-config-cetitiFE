@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-cetitife",
+  "version": "1.0.1",
+  "description": "ESLint Config for cetiti fe team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "cetitife"
+  ],
+  "author": "GravityMsc",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
