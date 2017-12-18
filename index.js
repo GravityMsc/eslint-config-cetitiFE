@@ -8,6 +8,7 @@ module.exports = {
         "es6": true,
     },
     "parserOptions": {
+        "sourceType": "module",
         "ecmaVersion": 6,
         "ecmaFeatures": {
             "jsx": true,
@@ -15,17 +16,6 @@ module.exports = {
         },
     },
     "rules": {
-        //"linebreak-style": [2, "windows"],
-        "indent": [2, 4, {
-            "SwitchCase": 1
-        }], // 4格缩进
-        "react/self-closing-comp": [2, {
-            "html": false,
-        }], // 关闭html标签自闭合
-        "react/jsx-filename-extension": [1, {
-            "extensions": [".js", ".jsx"],
-        }], // 允许在js和jsx文件写入jsx代码
-        "react/jsx-indent": [2, 4],
-        "react/prop-types": [0], // react/props无验证
+
     }
 };
