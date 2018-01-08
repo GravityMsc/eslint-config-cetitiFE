@@ -1,9 +1,9 @@
 ### How to use:
 `npm install eslint eslint-config-cetitife -D`  
 
-And you will install eslint,babel-eslint and three of plugins(react,jsx-ally,import) automaticly.  
+And you will install babel-eslint and three of plugins(react,jsx-ally,import) automaticly.  
 
-PS: If you want to use it in your editor eslint, please use `-g` instead of `-S` while you install.  
+PS: If you want to use it in your editor eslint, please confirm you have installed eslint in your global environment `npm install eslint -g`  
     This package is an experimental version following all of rules of Airbnb.  
     you can custom your personal rules in your .eslint.js file. Here is an example
 ```
