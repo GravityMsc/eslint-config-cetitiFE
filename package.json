@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cetitife",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "ESLint Config for cetiti fe team",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,6 @@
   "devDependencies": {},
   "dependencies": {
     "babel-eslint": "^8.1.2",
-    "eslint": "^4.14.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",

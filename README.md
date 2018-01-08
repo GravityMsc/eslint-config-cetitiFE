@@ -1,5 +1,5 @@
 ### How to use:
-`npm install eslint-config-cetitife -S`  
+`npm install eslint eslint-config-cetitife -D`  
 
 And you will install eslint,babel-eslint and three of plugins(react,jsx-ally,import) automaticly.  
 
