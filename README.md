@@ -3,12 +3,12 @@
 
 And you will install babel-eslint and three of plugins(react,jsx-ally,import) automaticly.  
 
-PS: If you want to use it in your editor eslint, please confirm you have installed eslint in your global environment `npm install eslint -g`  
+PS: If you want to use it in your editor eslint, please confirm you have installed eslint in your global environment `npm install eslint -g`. And you also need your editor eslint plugin.  
     This package is an experimental version following all of rules of Airbnb.  
-    you can custom your personal rules in your .eslint.js file. Here is an example
+    you can custom your personal rules in your .eslintrc.js file. Here is an example
 ```
 const eslintrc = {
-  "extends": ["eslint-config-cetitife"], // 包含下述配置,可覆盖
+  "extends": ["eslint-config-cetitife"], // including these options
   // "parser": "babel-eslint",
   // "env": {
   //   "browser": true,
