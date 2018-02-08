@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cetitife",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "ESLint Config for cetiti fe team",
   "main": "index.js",
   "scripts": {
