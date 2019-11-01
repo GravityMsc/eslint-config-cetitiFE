@@ -1,5 +1,5 @@
 module.exports = {
-  "extends": ["eslint-config-airbnb"],
+  "extends": ["airbnb", "airbnb/hooks"],
   "parser": "babel-eslint",
   "env": {
     "browser": true,
@@ -14,7 +14,5 @@ module.exports = {
       "jsx": true,
     },
   },
-  "rules": {
-    
-  }
+  "rules": {}
 };

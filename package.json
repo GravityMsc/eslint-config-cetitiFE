@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cetitife",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "eslint config for cetiti",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,10 @@
   "devDependencies": {},
   "dependencies": {
     "babel-eslint": "^10.0.3",
-    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb": "^18.0.1",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.14.3"
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^2.2.0"
   }
 }
