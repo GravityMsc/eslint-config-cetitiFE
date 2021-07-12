@@ -4,12 +4,11 @@ module.exports = {
   "env": {
     "browser": true,
     "node": true,
-    "commonjs": true,
-    "es6": true,
+    "commonjs": true
   },
   "parserOptions": {
     "sourceType": "module",
-    "ecmaVersion": 2019,
+    "ecmaVersion": "latest",
     "ecmaFeatures": {
       "jsx": true,
     },
