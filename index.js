@@ -7,6 +7,7 @@ module.exports = {
     "commonjs": true
   },
   "parserOptions": {
+    "requireConfigFile": false,
     "sourceType": "module",
     "ecmaVersion": "latest",
     "ecmaFeatures": {
